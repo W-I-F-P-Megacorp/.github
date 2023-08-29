@@ -1,4 +1,5 @@
-![Logo](/profile/logo.png)
+![Logo](/profile/logo-w.png#gh-dark-mode-only)
+![Logo](/profile/logo.png#gh-light-mode-only)
 # Western Industrial, for innovation & progress
 Welcome to the forefront of innovation and progress – where possibilities are unbounded and the future is forged with unwavering determination. Established in the year 2023, we proudly present the Western Industrial Free Peoples Megacorporation, a visionary enterprise dedicated to shaping the world through cutting-edge solutions and boundless imagination.
 
